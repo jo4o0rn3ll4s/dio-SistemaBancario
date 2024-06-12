@@ -1,0 +1,25 @@
+{
+    "1": {
+        "dados": {
+            "nome": "João",
+            "nascimento": "11/10/2003",
+            "cpf": "123",
+            "endereço": "Rua essa mesmo, bem ai - rj"
+        },
+        "contas": [
+            1,
+            3
+        ]
+    },
+    "2": {
+        "dados": {
+            "nome": "Beatriz",
+            "nascimento": "01/05/2007",
+            "cpf": "456",
+            "endereço": "Rua que for, bem ali - RJ"
+        },
+        "contas": [
+            2
+        ]
+    }
+}

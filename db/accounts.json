@@ -1,0 +1,41 @@
+{
+    "1": {
+        "tipo": "poupança",
+        "agc": "0001",
+        "numero_da_conta": 1,
+        "senha": "1234",
+        "saldo": 450.0,
+        "saque_diario": 3,
+        "saque_maximo": 500,
+        "historico": [
+            "\u001b[32m+300.00\u001b[m",
+            "\u001b[32m+400.00\u001b[m",
+            "\u001b[31m-250.00\u001b[m"
+        ]
+    },
+    "2": {
+        "tipo": "poupança",
+        "agc": "0001",
+        "numero_da_conta": 2,
+        "senha": "1234",
+        "saldo": 1000.0,
+        "saque_diario": 3,
+        "saque_maximo": 500,
+        "historico": [
+            "\u001b[32m+1000.00\u001b[m"
+        ]
+    },
+    "3": {
+        "tipo": "salario",
+        "agc": "0001",
+        "numero_da_conta": 3,
+        "senha": "1234",
+        "saldo": 250.0,
+        "saque_diario": 2,
+        "saque_maximo": 10000,
+        "historico": [
+            "\u001b[32m+500.00\u001b[m",
+            "\u001b[31m-250.00\u001b[m"
+        ]
+    }
+}
