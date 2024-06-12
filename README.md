@@ -40,12 +40,14 @@ Sendo assim, apenas deve ser adicionado o valor na conta bancária.
 1- Limite de 3 saques diarios
 2- Também deve haver um limite de R$500,00 por saque.
 
-Caso o usuario não tenha limite na conta, tenha pedido um saque acima do limite ou já tenha excedido o limite diario de saques, deve devolver uma mensagem informando que não pode realizar o saque e por qual motivo.
+Caso o usuario não tenha limite na conta, tenha pedido um saque acima do limite ou já tenha excedido o limite diario de saques,
+deve devolver uma mensagem informando que não pode realizar o saque e por qual motivo.
 ```
 
 - Para extrato:
 ```
-Toda operação deve ser registrada em uma variavel, para que possa ser apresentada no extrato. Ao informar valores, ele deve seguir o padrão "R$ XXX.XX"
+Toda operação deve ser registrada em uma variavel, para que possa ser apresentada no extrato.
+Ao informar valores, ele deve seguir o padrão "R$ XXX.XX"
 ```
 
 **Bons estudos**
