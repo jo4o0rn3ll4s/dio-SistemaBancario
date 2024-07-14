@@ -1,0 +1,34 @@
+{
+    "1": {
+        "saldo": 120,
+        "numero": "1",
+        "agencia": "0001",
+        "cliente": {
+            "id": "1",
+            "nome": "joao"
+        },
+        "senha": "1234",
+        "historico": [
+            "\u001b[32m+300\u001b[m",
+            "\u001b[32m+50\u001b[m",
+            "\u001b[31m-230\u001b[m"
+        ],
+        "limite": 1000.0,
+        "limite_saque": 9999
+    },
+    "2": {
+        "saldo": 500,
+        "numero": "2",
+        "agencia": "0001",
+        "cliente": {
+            "id": "1",
+            "nome": "joao"
+        },
+        "senha": "1234",
+        "historico": [
+            "\u001b[32m+500\u001b[m"
+        ],
+        "limite": 1000.0,
+        "limite_saque": 9999
+    }
+}

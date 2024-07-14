@@ -1,9 +1,31 @@
-# Desafio de Projeto - Python - Sistema bancario.
+# Entendendo o Desafio
 
-Neste repositório temos os desafios v1 e v2 (em branchs separadas) de um projeto de sistema bancario para a plataforma de cursos Dio, como parte do bootcamp Python Ai Backend Developer.
+Neste projeto, você terá a oportunidade de aprimorar o Sistema Bancário em Python criado anteriormente. O objetivo é criar o programa baseado no paradigma de orientação a objetos, com o intuito de melhorar a construção do sistema. Durante o desafio, você terá a chance de aplicar seus conhecimentos em programação Python e criar um sistema funcional que simule as operações bancárias. Prepare-se para aprimorar suas habilidades e demonstrar sua capacidade de desenvolver soluções práticas e eficientes.
 
-## Links
+#### Pré-requisitos:
 
-🔗[Repositório dos projetos](https://github.com/digitalinnovationone/trilha-python-dio)
+- Lógica de Programação;
 
-🔗[Site da Dio](https://www.dio.me)
+- Conhecimentos Básico(Python, Git, GitHub);
+
+- Computador com SO de sua preferência(Windows, Linux, Mac OS);
+
+- Ferramentas de Desenvolvimento (IDE)
+
+# GitHub DIO - Trilha Python - Fundamentos
+
+Todo código-fonte desenvolvido durante o projeto foi versionado no GitHub, no seguinte endereço:
+
+https://github.com/digitalinnovationone/trilha-python-dio
+ 
+https://www.dio.me
+
+# Objetivo geral
+
+Separar as funções existentes de saque, depósito e extrato em funções. Criar duas novas funções: cadastrar usuário (cliente) e cadastrar conta bancária.
+
+# Instruções adicionais
+
+[a colocar]
+
+**Bons estudos**

@@ -1,0 +1,16 @@
+{
+    "1": {
+        "cpf": "123",
+        "nome": "joao",
+        "data_nascimento": "11/10/2003",
+        "endereco": "r. nereu",
+        "contas": [
+            {
+                "numero": "1"
+            },
+            {
+                "numero": "2"
+            }
+        ]
+    }
+}
